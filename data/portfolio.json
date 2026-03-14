@@ -1,0 +1,20 @@
+{
+  "name": "Tushar",
+  "role": "SDE",
+  "tagline": "Fearless Problem Solver",
+  "heroImageUrl": "https://static.everypixel.com/ep-pixabay/0329/8099/0858/84037/3298099085884037069-head.png",
+  "about": "A dedicated Software Development Engineer passionate about building scalable applications and solving complex technical challenges. I transform ideas into robust software solutions with a focus on efficiency and clean code architecture.",
+  "experience": 3,
+  "currentRole": "10",
+  "highlights": [
+    "Achievenhihua"
+  ],
+  "skills": [],
+  "projects": [],
+  "contact": {
+    "email": "tj@adizen.ai",
+    "github": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186",
+    "linkedin": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186",
+    "twitter": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186"
+  }
+}
